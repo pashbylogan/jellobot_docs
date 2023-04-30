@@ -1,0 +1,4 @@
+site_name: Jellobot Documentation
+site_url: "https://jellobot.loganpashby.com"
+theme:
+  name: material
